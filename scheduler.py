@@ -8,4 +8,4 @@ def can_add_stop(current_stop_count):
     return current_stop_count < DEFAULT_STOP_LIMIT
 
 def route_label(day):
-    return f"{day}-community-route"
+    return f"{day}-meal-delivery-route"
